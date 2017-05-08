@@ -1,4 +1,4 @@
 # HireMe
 Solarex's cv,if interested,feel free to contact me!
 
-[HireMe](https://solarex.github.io/HireMe)
+[HireMe](https://solarex.github.io/hireme)
